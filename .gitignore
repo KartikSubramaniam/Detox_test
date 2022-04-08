@@ -1106,3 +1106,6 @@ ios/Pods/*
 
 Database/*
 reactNativeQueue*
+
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
